@@ -23,3 +23,7 @@ A web-based piano simulator where you can unleash your inner musician!
 
 * Expand the sound library with additional sounds/themes
 * Implement a feature to play along with popular songs
+
+<img width="1501" alt="Piano Simulator Classic Theme" src="https://github.com/alexespinoza28/PianoSimulator/assets/160556977/1a05f92c-76c7-4d71-a953-cae4c717e45d">
+
+<img width="1501" alt="Piano Simulator Cyberpunk Theme" src="https://github.com/alexespinoza28/PianoSimulator/assets/160556977/5c041b8b-e0ee-4c87-a7d1-840d2e4f84f8">
