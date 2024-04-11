@@ -1,6 +1,6 @@
 ## Online Piano Simulator
 
-A web-based piano simulator where you can unleash your inner musician! 
+A web-based piano simulator where you can play Piano from your computer keyboard.
 
 **Features**
 
